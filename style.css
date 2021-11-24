@@ -1,0 +1,25 @@
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.ho{
+    bottom: 0;
+    position:fixed;
+    background-color: grey;
+    line-height:2;
+    color: white;
+    text-align: center;  
+    width: 100%;  
+}
